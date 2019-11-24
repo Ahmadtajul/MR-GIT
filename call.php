@@ -13,10 +13,10 @@ function send($phone){
 }
 
 
-echo "	╭─#Author        : Mr k3mpl03\n\n";
-echo "	╰─#Team          : Toxic Cyber Team\n\n";
-echo "	╭─#Instagram     : @makky_2693\n\n";
-echo "	╰─#WhatsApp      : +628572620\n\n";
+echo "	╭─#Author        : Ahmad_Tajul//\n\n";
+echo "	╰─#Team          : GIT_TEAM//<>\n\n";
+echo "	╭─#Instagram     : @ahmad_tajul098\n\n";
+echo "	╰─#WhatsApp      : +62895411911382\n\n";
 
 
 echo "Gunakan (08***)\nInput : ";
